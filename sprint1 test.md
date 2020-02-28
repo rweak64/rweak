@@ -1,4 +1,4 @@
-﻿
+
 ## Sprint 1
 
 |Java Package name| CVE Description |
@@ -22,5 +22,4 @@
 |Specimen: DNA|N/A|N/A
 |Specimen: Isotope|N/A|N/A
 
-> Written with [StackEdit](https://stackedit.io/).
 
